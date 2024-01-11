@@ -1,4 +1,5 @@
-<h1 align="center">Greetings! I'm Muhammad Sami</h1>
+<h1 align="center">Greetings! 
+I'm Muhammad Sami</h1>
 <h3 align="center">A Coding Enthusiast, Crafting Innovative Solutions in the Realm of Software Development.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
