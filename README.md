@@ -1,23 +1,48 @@
-<h1 align="center">Greetings! I'm Muhammad Sami</h1>
-<h3 align="center">A Coding Enthusiast, Crafting Innovative Solutions in the Realm of Software Development.</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Sami Faisal</h1>
 
-- 🌱 I’m currently learning **Database and Web development using React Typescript**
-
-- 💬 Ask me about **C, C++, Assembly Language, Data Structures and Algorithms**
-
-- 📫 How to reach me **786samifaisal@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-sami-48734b22a/](https://www.linkedin.com/in/muhammad-sami-48734b22a/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sami-48734b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sami-48734b22a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/m.uhamadsami23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/m.uhamadsami23/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/m.uhamadsami23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.uhamadsami23/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/786samifaisal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/786samifaisal/" height="30" width="40" /></a>
+<p align="center">
+  Final-year BS Computer Science @ FAST-NUCES Karachi<br>
+  Software Engineer | Mobile & DevOps Enthusiast<br>
+  Building cross-platform apps and reliable cloud infrastructure
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-sami-48734b22a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:786samifaisal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/muhamadsami23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
+### 🔧 Tech Stack
+- **Languages** — Python, C/C++, Dart  
+- **Mobile & Frameworks** — Flutter (cross-platform app development)  
+- **Databases** — MySQL, Firebase Realtime, SQLite  
+- **Cloud & DevOps** — AWS (ECS Fargate, RDS, CloudWatch), Docker, Terraform, CI/CD Pipelines, Infrastructure as Code  
+- **Concepts** — OOP, Data Structures, REST APIs, MVC Architecture, basic AI/ML  
+- **Other** — Arduino (embedded prototyping), Git
 
+### 🚀 Highlighted Projects
+- **Cloud-Hosted Full-Stack Web App** — Dockerized a simple full-stack website, provisioned infrastructure with Terraform, set up CI/CD pipelines, deployed to AWS ECS Fargate, RDS, and CloudWatch for scalable automated hosting.  
+- **Hajj Helper App** — Flutter-based mobile app developed during internship; reusable UI components, performance optimizations, and maintenance.  
+- **Snake Playing AI Agent** — Python-based Q-Learning agent; learns optimal gameplay and reaches 100+ score after ~75 training iterations.  
+- **Autonomous Space Rover Navigator** — C++ algorithms for rover pathfinding on Martian terrain; Unity visualization (focused on algorithms).  
+- **Student Academic Dashboard** — React & Node.js app with MySQL for managing student, teacher, and admin data (focused on database).
+
+### 💼 Experience Snapshot
+- **Application Developer Intern (Flutter)** @ Al-Madinah Islamic Research Center (May–Aug 2025)  
+  Developed and maintained Hajj Helper App; created reusable UI components and optimized performance.
+
+### 🎓 Education & Achievements
+- BS Computer Science — FAST-NUCES Karachi | CGPA 3.26 | Expected June 2026  
+- Winner — SpaceTech Hackathon (KASBIT, Apr 2024): Built autonomous space rover navigation system (terrain traversal, battery management).  
+- CS50P: Introduction to Programming with Python — Harvard University  
+- Flutter & Dart - The Complete Guide [2025 Edition] — Udemy (In Progress)
+
+Open to software engineering, mobile development, or DevOps internships/roles. Let's create something efficient and beautiful… 🌐
+
+📫 Reach me: 786samifaisal@gmail.com
