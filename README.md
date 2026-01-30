@@ -14,7 +14,7 @@
 </div>
 
 ### 🌟 About Me
-Final-year BS Computer Science student at FAST-NUCES Karachi. Passionate about turning ideas into production-ready software — from cross-platform Flutter mobile apps to automated AWS cloud deployments. Quick learner blending strong coding foundations (Python, Dart, OOP, algorithms) with real DevOps practices (Docker, Terraform, CI/CD). Always chasing scalable, efficient delivery in team environments.
+Passionate about turning ideas into production-ready software — from cross-platform Flutter mobile apps to automated AWS cloud deployments. Quick learner blending strong coding foundations (Python, Dart, OOP, algorithms) with real DevOps practices (Docker, Terraform, CI/CD). Always chasing scalable, efficient delivery in team environments.
 
 ### ⚡ Skills
 <div align="center">
