@@ -1,48 +1,50 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sami Faisal</h1>
+<div align="center">
 
-<p align="center">
-  Final-year BS Computer Science @ FAST-NUCES Karachi<br>
-  Software Engineer | Mobile & DevOps Enthusiast<br>
-  Building cross-platform apps and reliable cloud infrastructure
-</p>
+  <h1>🚀 Muhammad Sami Faisal</h1>
+  <h3>Software Engineer | Flutter | DevOps</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sami-48734b22a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:786samifaisal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/muhamadsami23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+  <p>
+    <strong>Karachi, Pakistan</strong> • +92 304 8017379 • <a href="mailto:786samifaisal@gmail.com">786samifaisal@gmail.com</a><br>
+    <a href="https://www.linkedin.com/in/muhammad-sami-48734b22a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/muhamadsami23">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
 
-### 🔧 Tech Stack
-- **Languages** — Python, C/C++, Dart  
-- **Mobile & Frameworks** — Flutter (cross-platform app development)  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Code+to+Cloud...;Flutter+Apps+to+AWS+Deployments...;Building+Reliable+Systems" alt="Typing SVG" />
+
+</div>
+
+### 🌟 About Me
+Final-year BS Computer Science student at FAST-NUCES Karachi. Passionate about turning ideas into production-ready software — from cross-platform Flutter mobile apps to automated AWS cloud deployments. Quick learner blending strong coding foundations (Python, Dart, OOP, algorithms) with real DevOps practices (Docker, Terraform, CI/CD). Always chasing scalable, efficient delivery in team environments.
+
+### ⚡ Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
+
+- **Cloud & DevOps** — AWS ECS Fargate, RDS, CloudWatch • CI/CD Pipelines • Infrastructure as Code  
+- **Mobile & Frameworks** — Flutter (cross-platform apps) • Dart  
 - **Databases** — MySQL, Firebase Realtime, SQLite  
-- **Cloud & DevOps** — AWS (ECS Fargate, RDS, CloudWatch), Docker, Terraform, CI/CD Pipelines, Infrastructure as Code  
-- **Concepts** — OOP, Data Structures, REST APIs, MVC Architecture, basic AI/ML  
-- **Other** — Arduino (embedded prototyping), Git
+- **Core** — OOP, Data Structures, REST APIs, MVC, basic AI/ML • Git • Arduino
 
-### 🚀 Highlighted Projects
-- **Cloud-Hosted Full-Stack Web App** — Dockerized a simple full-stack website, provisioned infrastructure with Terraform, set up CI/CD pipelines, deployed to AWS ECS Fargate, RDS, and CloudWatch for scalable automated hosting.  
-- **Hajj Helper App** — Flutter-based mobile app developed during internship; reusable UI components, performance optimizations, and maintenance.  
-- **Snake Playing AI Agent** — Python-based Q-Learning agent; learns optimal gameplay and reaches 100+ score after ~75 training iterations.  
-- **Autonomous Space Rover Navigator** — C++ algorithms for rover pathfinding on Martian terrain; Unity visualization (focused on algorithms).  
-- **Student Academic Dashboard** — React & Node.js app with MySQL for managing student, teacher, and admin data (focused on database).
+### 🔥 Pinned Highlights
+- **Cloud-Hosted Full-Stack Web App** — Dockerized deployment + Terraform IaC + CI/CD → live on AWS ECS Fargate, RDS, CloudWatch for automated scaling  
+- **Hajj Helper App** — Flutter mobile app from 3-month internship: reusable UI components + performance optimizations  
+- **Snake AI Agent** — Python Q-Learning → 100+ score after ~75 iterations of optimal gameplay learning  
+- **Autonomous Space Rover** — C++ pathfinding algorithms + Unity viz → won SpaceTech Hackathon 2024  
+- **Student Academic Dashboard** — React/Node.js + MySQL → full data management for students/teachers/admins
 
-### 💼 Experience Snapshot
-- **Application Developer Intern (Flutter)** @ Al-Madinah Islamic Research Center (May–Aug 2025)  
-  Developed and maintained Hajj Helper App; created reusable UI components and optimized performance.
 
-### 🎓 Education & Achievements
-- BS Computer Science — FAST-NUCES Karachi | CGPA 3.26 | Expected June 2026  
-- Winner — SpaceTech Hackathon (KASBIT, Apr 2024): Built autonomous space rover navigation system (terrain traversal, battery management).  
-- CS50P: Introduction to Programming with Python — Harvard University  
-- Flutter & Dart - The Complete Guide [2025 Edition] — Udemy (In Progress)
-
-Open to software engineering, mobile development, or DevOps internships/roles. Let's create something efficient and beautiful… 🌐
-
-📫 Reach me: 786samifaisal@gmail.com
+<div align="center">
+  <em>Let's build something together... 💻☁️</em>
+</div>
