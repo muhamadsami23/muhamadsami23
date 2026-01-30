@@ -9,7 +9,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Code+to+Cloud...;Flutter+Apps+to+AWS+Deployments...;Building+Reliable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Code+to+Cloud...;Flutter+Apps+to+AWS+Deployment...;Building+Reliable+Systems" alt="Typing SVG" />
 
 </div>
 
