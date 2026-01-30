@@ -4,12 +4,8 @@
   <h3>Software Engineer | Flutter | DevOps</h3>
 
   <p>
-    <strong>Karachi, Pakistan</strong> • +92 304 8017379 • <a href="mailto:786samifaisal@gmail.com">786samifaisal@gmail.com</a><br>
     <a href="https://www.linkedin.com/in/muhammad-sami-48734b22a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/muhamadsami23">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
 
